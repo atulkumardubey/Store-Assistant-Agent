@@ -1,0 +1,13 @@
+{
+  "prices": {
+    "shirt":   { "base_price": 799,  "currency": "INR" },
+    "jacket":  { "base_price": 2499, "currency": "INR" },
+    "t-shirt": { "base_price": 399,  "currency": "INR" },
+    "trouser": { "base_price": 1299, "currency": "INR" }
+  },
+  "discount_tiers": [
+    { "min_qty": 1,  "max_qty": 4,   "discount_pct": 0  },
+    { "min_qty": 5,  "max_qty": 9,   "discount_pct": 5  },
+    { "min_qty": 10, "max_qty": null, "discount_pct": 10 }
+  ]
+}

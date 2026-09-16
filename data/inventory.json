@@ -1,0 +1,25 @@
+{
+  "products": {
+    "shirt": {
+      "S":  { "color": "blue", "available_qty": 20 },
+      "M":  { "color": "blue", "available_qty": 8  },
+      "L":  { "color": "blue", "available_qty": 0  },
+      "XL": { "color": "blue", "available_qty": 3  }
+    },
+    "jacket": {
+      "M":  { "color": "red", "available_qty": 5  },
+      "L":  { "color": "red", "available_qty": 2  },
+      "XL": { "color": "red", "available_qty": 0  }
+    },
+    "t-shirt": {
+      "S":  { "color": "white", "available_qty": 50 },
+      "M":  { "color": "white", "available_qty": 30 },
+      "L":  { "color": "white", "available_qty": 12 }
+    },
+    "trouser": {
+      "30": { "color": "black", "available_qty": 7 },
+      "32": { "color": "black", "available_qty": 4 },
+      "34": { "color": "black", "available_qty": 0 }
+    }
+  }
+}

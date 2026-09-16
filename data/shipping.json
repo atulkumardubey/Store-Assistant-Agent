@@ -1,0 +1,19 @@
+{
+  "pincodes": {
+    "560001": { "city": "Bengaluru",  "zone": "A" },
+    "400001": { "city": "Mumbai",     "zone": "A" },
+    "110001": { "city": "New Delhi",  "zone": "A" },
+    "600001": { "city": "Chennai",    "zone": "B" },
+    "700001": { "city": "Kolkata",    "zone": "B" },
+    "500001": { "city": "Hyderabad",  "zone": "B" },
+    "380001": { "city": "Ahmedabad",  "zone": "C" },
+    "302001": { "city": "Jaipur",     "zone": "C" }
+  },
+  "zone_eta_days": {
+    "A": 2,
+    "B": 4,
+    "C": 7
+  },
+  "order_cutoff_time": "15:00",
+  "timezone": "IST"
+}
